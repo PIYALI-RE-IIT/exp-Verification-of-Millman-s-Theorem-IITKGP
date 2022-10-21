@@ -80,8 +80,8 @@
       "explanations": {
         "a": "You have chosen wrong answer",
         "b": "You have chosen wrong answer",
-        "c": "You have chosen wrong answer",
-        "d": "You have chosen correct answer"
+        "c": "You have chosen correct answer",
+        "d": "You have chosen wrong answer"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
